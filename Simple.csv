@@ -1,0 +1,15 @@
+EmployeeID,Name,Department,Salary,Email
+10,A,Accounts,10000,abc@xyz.com
+11,B,Accounts,10000,
+12,C,Accounts,10000,
+13,D,Finance,,?
+14,E,Marketing,10000,abc1@xyz.com
+15,,HR,10000,abc2@xyz.com
+16,A,HR,10000,abc3@xyz.com
+17,D,,10000,abc4@xyz.com
+18,G,,0,abc5@xyz.com
+19,H,Marketing,10000,abc6@xyz.com
+20,I,Marketing,0,abc7@xyz.com
+21,J,Finance,10000,abc8@xyz.com
+22,A,Finance,10000,abc9@xyz.com
+23,B,Finance,10000,abc10@xyz.com
